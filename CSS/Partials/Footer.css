@@ -1,0 +1,77 @@
+.line {
+  order: none;
+  height: 2px;
+  background: gray;
+  margin-top: -70px;
+}
+
+footer {
+  display: flex;
+  grid-area: footer;
+  background-color: white;
+  height: 60px;
+}
+
+.list-1 {
+  font-family: "Raleway", sans-serif;
+  display: flex;
+  align-content: space-between;
+  flex-direction: column;
+}
+
+.list-2 {
+  font-family: "Raleway", sans-serif;
+  margin-top: -10px;
+  margin-left: 110px;
+  padding-top: -450px;
+}
+
+.list-3 {
+  font-family: "Raleway", sans-serif;
+  margin-top: -10px;
+  margin-left: 110px;
+  padding-top: -180px;
+}
+
+.list-4 {
+  font-family: "Raleway", sans-serif;
+  margin-top: -10px;
+  margin-left: 110px;
+  padding-top: -400px;
+}
+.fa-cc-visa {
+  border-radius: 80%;
+  padding: 5px;
+  background-color: gray;
+}
+.fa-cc-mastercard {
+  border-radius: 80%;
+  padding: 5px;
+  background-color: gray;
+}
+.fa-cc-paypal {
+  border-radius: 80%;
+  padding: 5px;
+  background-color: gray;
+}
+.list-5 {
+  font-family: "Raleway", sans-serif;
+  margin-top: -10px;
+  margin-left: 100px;
+  padding-top: -180px;
+}
+.fa-facebook-square {
+  border-radius: 80%;
+  padding: 5px;
+  background-color: gray;
+}
+.fa-instagram {
+  border-radius: 80%;
+  padding: 5px;
+  background-color: gray;
+}
+.fa-twitter {
+  border-radius: 80%;
+  padding: 5px;
+  background-color: gray;
+}
