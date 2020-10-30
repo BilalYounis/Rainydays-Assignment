@@ -1,0 +1,54 @@
+* {
+  padding: 0px;
+  body: 0px;
+}
+.Checkout_1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+.box1 {
+  display: flex;
+  flex-direction: column;
+}
+.Imageovercheckout {
+  float: left;
+  width: 150px;
+  height: 150px;
+  margin-top: 90px;
+  border-radius: 30px solid black;
+}
+.outcheck {
+  text-decoration: underline;
+  margin-top: 20px;
+  font-family: "Raleway", sans-serif;
+  height: 10px;
+}
+
+.bagshooping {
+  text-decoration: underline;
+  margin-top: 30px;
+  font-family: "Raleway", sans-serif;
+}
+.fa-shopping-bag {
+  font-size: large;
+  margin-right: 110px;
+}
+.Infocheckout {
+  text-align: right;
+  margin-top: -100px;
+  width: 200px;
+  margin-left: 170px;
+}
+.numbers1 {
+  border-radius: 200px solid black;
+  margin-top: 400px;
+}
+
+.PD1 {
+  text-decoration: underline;
+  font-family: "Raleway", sans-serif;
+  margin-top: -250px;
+  margin-right: 400px;
+}
+

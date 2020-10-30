@@ -69,7 +69,7 @@ img {
 main {
   grid-area: main;
   background-color: white;
-  height: 980px;
+  height: 950px;
 }
 
 .Bestsellers__jackets {
@@ -89,7 +89,8 @@ main {
   width: 160px;
   height: 160px;
 }
-.hoover:rainjacket0 .underline1 {
+
+.underline1 {
   width: 150px;
   height: 50px;
   border-bottom: 2px solid gray;
@@ -347,21 +348,21 @@ footer {
 
 .list-2 {
   font-family: "Raleway", sans-serif;
-  margin-top: -10px;
+  margin-top: -2px;
   margin-left: 110px;
   padding-top: -450px;
 }
 
 .list-3 {
   font-family: "Raleway", sans-serif;
-  margin-top: -10px;
+  margin-top: -2px;
   margin-left: 110px;
   padding-top: -180px;
 }
 
 .list-4 {
   font-family: "Raleway", sans-serif;
-  margin-top: -10px;
+  margin-top: -2px;
   margin-left: 110px;
   padding-top: -400px;
 }

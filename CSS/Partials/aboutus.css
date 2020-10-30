@@ -1,0 +1,46 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+.big__box1 {
+  margin-left: 10px;
+  height: 400px;
+  width: 400px;
+  border: solid 1px white;
+  display: grid;
+  grid-template-areas:
+    "aboutus1"
+    "p1info"
+    "p2info"
+    "Awards"
+    "awards2"
+    "Best_C"
+    "fa-award";
+}
+
+.aboutus1 {
+  font-family: "Raleway", sans-serif;
+  margin-top: 40px;
+}
+
+.p1info {
+  font-family: "Raleway", sans-serif;
+}
+
+.p2info {
+  font-family: "Raleway", sans-serif;
+}
+
+.Awards {
+  font-family: "Raleway", sans-serif;
+}
+.awards2 {
+  font-family: "Raleway", sans-serif;
+}
+
+.fa-award {
+  font-size: xx-large;
+}
+.Best_C {
+  font-family: "Raleway", sans-serif;
+}

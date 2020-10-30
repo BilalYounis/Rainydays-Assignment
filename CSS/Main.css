@@ -1,5 +1,10 @@
-@import "./Partials/Variabels.css";
-@import "./Partials/Header.css";
-@import "./Partials/Footer.css";
-@import "./Partials/Home.css";
-@import "./Partials/Contact.css";
+@import "./Partials/variabels.css";
+@import "./Partials/header.css";
+@import "./Partials/footer.css";
+@import "./Partials/home.css";
+@import "./Partials/contact.css";
+@import "./Partials/aboutus.css";
+@import "./Partials/jackets.css";
+@import "./Partials/checkout_s.css";
+@import "./Partials/thejacket.css";
+@import "./Partials/checkoutpage.css";

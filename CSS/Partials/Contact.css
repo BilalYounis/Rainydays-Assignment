@@ -1,8 +1,43 @@
-* body {
-  margin: 0px;
+* {
   padding: 0px;
+  margin: 0px;
 }
 
-.HAI {
-  color: rgb(184, 89, 136);
+.Firsth1 {
+  color: black;
+  padding-top: 30px;
+  font-family: "Raleway", sans-serif;
+  display: flex;
+}
+.Info_Tele_Email_adress {
+  padding-top: 50px;
+  display: grid;
+  font-family: "Raleway", sans-serif;
+}
+.Sosialmedia1 {
+  font-family: "Raleway", sans-serif;
+  padding-top: 70px;
+}
+.sosialmedia__1 {
+  font-size: 30px;
+  color: darkolivegreen;
+}
+.fa-phone-square-alt {
+  color: sandybrown;
+}
+.fa-envelope-square {
+  color: darksalmon;
+}
+.fa-map-marker-alt {
+  color: green;
+}
+
+.fa-facebook-f {
+  color: blue;
+}
+.fa-instagram-square {
+  color: peru;
+}
+.fa-twitter-square {
+  color: blue;
 }
